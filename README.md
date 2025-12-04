@@ -42,10 +42,9 @@ python client.py
 # Make sure to start socket_server.py before running client.py.
 ```
 
-If you have any questions, please feel free to contact the writer at rkfakehd112@gmail.com.
-
 ## **References**
 
 I referenced the repo below for the code.
 - [YOLOv5](https://github.com/ultralytics/yolov5).
 
+If you have any questions, please feel free to contact the writer at rkfakehd112@gmail.com.
