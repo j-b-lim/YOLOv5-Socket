@@ -44,7 +44,6 @@ python client.py
 
 ## **References**
 
-I referenced the repo below for the code.
-- [YOLOv5](https://github.com/ultralytics/yolov5).
+This implementation is based on the following [repository](https://github.com/ultralytics/yolov5)
 
 If you have any questions, please feel free to contact the writer at rkfakehd112@gmail.com.
